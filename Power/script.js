@@ -13,6 +13,7 @@ Note: Math.pow and some others Math functions are disabled on final tests.
 
 End Details */
 
+/* --- Solution --- */
 function numberToPower(number, power){
   var sum = 1;
 
